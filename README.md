@@ -57,7 +57,7 @@ You have a story you want to tell with data, and you want to show it in a visual
 * Modify what shows up on rollover
 * We create basics of a second more in-depth viz than previous
 
-## VII. Use raphael skills to extend amcharts
+## VII. Use Raphael skills to extend Amcharts
 
 * Discuss importance of annotations, why you should implement in chart
 * Show how Raphael is related to amchart - inspect chart object to show what it contains, and how it matches Raph
@@ -74,12 +74,12 @@ You have a story you want to tell with data, and you want to show it in a visual
 * Using that template to create a full-blown auto-generated table
 * Showing/hiding table viz based on media queries -- should be a concept review
 
-## VIII. D3 - Add physics-based animations to your graphs, understand diff between this and other tools
+## IV. D3 - Add physics-based animations to your graphs, understand diff between this and other tools
 
 * Note: This is not to show you how to use it, just to explain why it might be worth digging into, and show off what goes into it.
 * lots of talk about D3 -why is it different (great for motion, lack of IE compatibility)
 
-## IX. Learn how to learn to move forward from here
+## X. Learn how to learn to move forward from here
 
 * how to look things up in documentation
 * power of stackoverflow
