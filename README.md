@@ -41,7 +41,7 @@ You have a story you want to tell with data, and you want to show it in a visual
 * D3 intro - we'll get back to this
 * Flot/Highcharts/other light JS options
 
-## VI. Raphael - learn how to make shapes, add various actions (make multiboxes visualization, showing categories of data)
+## V. Raphael - learn how to make shapes, add various actions (make multiboxes visualization, showing categories of data)
 
 * create a canvas to draw on
 * practice drawing shapes, change size/coords
@@ -50,7 +50,7 @@ You have a story you want to tell with data, and you want to show it in a visual
 * Use events to trigger popup simple text
 * This will result in an overview viz of data, when viewed in tandem with the graph we are about to create, which will provide more detail, the two-part viz is a complete package lending insight about data
 
-## V. Amcharts - make basic charts in already-existing story forms - figure out ways to show data as line and/or bar chart
+## VI. Amcharts - make basic charts in already-existing story forms - figure out ways to show data as line and/or bar chart
 
 * attach inputted data to graph
 * use JS to modify attributes of graph
